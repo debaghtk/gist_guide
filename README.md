@@ -1,5 +1,7 @@
-###gistguide.github.io
+###Gist-Guide
 ===================
+
+### View the webpage on url => https://wallydrag.github.io/Gist-Guide
 
 ####getting to know what are github gists
 
